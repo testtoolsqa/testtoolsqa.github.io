@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>JS Machine Lab</title>
+
+    <!-- Bootstrap & Snippet plugin core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="stickup.css" rel="stylesheet">    
+  </head>
+  <body>
+    <!-- START THE COVER -->
+    <div id="home" class="carousel">
+      <div class="carousel-inner">
+        <div class="item active">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>ML Toolset</h1>
+              <h3></h3>
+              <p>A compilation of Machine Learning programming tips, from basic methods to in-depth tutorials. Provided to get you past hurdles while debugging and getting your app to run. Includes some product tools to ramp up Android app development.</p>
+             </div>
+          </div>
+        </div>
+    </div><!-- END COVER -->
+
+    <!-- START THE NAVBAR -->
+    <div class="navbar-wrapper">
+      <div class="container">
+      <div class="navwrapper">
+        <div class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#">JS Machine Lab</a>
+            </div>
+            <div class="navbar-collapse collapse">              <ul class="nav navbar-nav">
+                <li class="menuItem active"><a href="#home">Home</a></li>
+                <li class="menuItem"><a href="#androidtips">ML Python Tips</a></li>
+                <li class="menuItem"><a href="#amvvm">ML in Jupyter</a></li>
+                <li class="menuItem"><a href="#vlogs">ML Vlogs</a></li>
+                <li class="menuItem"><a href="#samples">ML Python Samples</a></li>
+                <li class="menuItem"><a href="#slack">ML on Slack</a></li>
+    <li class="menuItem"><a href="#agilehub">NSBE Videos</a></li>
+     <!--            <li class="menuItem"><a href="#agilehub">Scrum Hub</a></li>    -->
+    <!--             <li class="menuItem"><a href="#contact">Footer</a></li>   -->
+              </ul>
+            </div>
+          </div>
+        </div> 
+      </div><!-- End Navbar -->
+      
+      </div>
+    </div> <!-- END NAVBAR -->
+
+    <!-- START THE CONTENT -->
+    <div id='contents'>  
+
+      
+      <!-- START THE FEATURES -->   
+  <div id="features" class="row featurette container marketing">
+      </div>
+        <!-- Three columns of text -->
+ <!--        </div> <!-- END FEATURES -->
+
+
+      
+      <!-- START THE ANDROIDTIPS -->
+      
+      <div id="androidtips" class="row featurette">
+        <div class="col-lg-offset-1 col-lg-12">
+          <h2 class="featurette-heading">ML Python Tips</h2>
+        </div>
+        <div class="col-lg-offset-2 col-lg-10">
+          <p class="lead"><a href="https://www.freecodecamp.org/news/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b/" target="_blank" ><b>Arrays on FreeCodeCamp</b></a> : Creating and Cloning Arrays</p>
+        </div>
+        <div class="col-lg-offset-2 col-lg-10">
+          <p class="lead"><a href="https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3" target="_blank" ><b>Arrays on Dev.to</b> </a> : 10 Array Methods you should know</p>
+        </div>
+                <div class="col-lg-offset-2 col-lg-10">
+          <p class="lead"><a href="https://codeburst.io/all-about-javascript-arrays-44d2d36874b9" target="_blank" ><b>Methods and Props on Codeburst.io</b> </a> : JS Arrays, Properties and Methods</p>
+        </div>
+        <div class="col-lg-offset-2 col-lg-10">
+          <p class="lead"><a href="https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript" target="_blank" ><b>Conditionals on Scotch.io</b></a> : Tips to Write Better Conditionals in JS</p>
+        </div>  
+        <div class="col-lg-offset-2 col-lg-10">
+          <p class="lead"><a href="https://www.androidauthority.com/best-material-design-apps-for-android-523420/" target="_blank" ><b>Array Processing on Itnext.io</b></a> : Speed Up JS Array Processing </p>
+        </div>
+       <!--  <div class="col-lg-offset-2 col-lg-10">
+          <p class="lead"><a href="https://www.raywenderlich.com/9475-constraintlayout-tutorial-for-android-complex-layouts" target="_blank"><b>ConstraintLayouts at Raywenderlich.com</b></a> : ConstraintLayout Tutorial on Complex Layouts</p>
+        </div>
+        <div class="col-lg-offset-2 col-lg-10">
+          <p class="lead"><a href="https://blog.usejournal.com/responsive-ui-with-constraint-layout-2fce50f0d902" target="_blank" ><b>Responsive UI from Arun Pandian</b></a> : Responsive UI with Contraint Layout</p>
+        </div>     
+        <div class="col-lg-offset-2 col-lg-10">
+          <p class="lead"><a href="https://o7planning.org/en/10423/android-ui-layouts-tutorial" target="_blank" ><b>UI Layouts on o7planning.org</b></a> : UI Layout Tutorial</p>
+        </div>     
+        <div class="col-lg-offset-2 col-lg-10">
+          <p class="lead"><a href="https://www.tutlane.com/tutorial/android/android-ui-layouts-linear-relative-frame-table-listview-gridview-webview
+" target="_blank" ><b>UI Layouts overview on Tutlane.com</b></a> : Android UI Layouts</p>
+        </div>
+        <div class="col-lg-offset-2 col-lg-10">
+          <p class="lead"><a href="https://www.codejourney.net/2017/04/android-layout-types/" target="_blank" ><b>Android Layout Types on Codejourney.net</b></a> : Android Layout Types</p>
+        </div>
+-->
+      </div> <!-- END ANDROIDTIPS -->
+
+      <!-- START MVVM -->
+      
+            <div id="samples" class="row featurette">   
+       <div "col-lg-offset-2 col-lg-10">
+          <h2 class="featurette-heading">Python in Jupyter</h2>
+        </div>
+      <table>
+        <tr><td>
+        <br>  
+        <div class="col-lg-offset-4 col-lg-10">
+        <img alt="Mbox1" title="MBox1" src="screens/mbox1b.gif" width=125>        
+        </div>
+         </td>
+           <td>
+      <div class="col-lg-offset-3"><p class="lead">A sample app implementing MediaPlayer to play audio. Also uses scroll bar UI.<br><a href="https://github.com/CodingApps/MusicBoxV1" target="_blank" >MusicBox on github</a>
+      <p></div>
+           </td>
+       </tr>
+      </table>
+      <table>  
+             <tr><td>
+        <br>  
+        <div class="col-lg-offset-4 col-lg-10">
+        <img alt="Convert1" title="Convert1" src="screens/convert1.gif" width=125>        
+        </div>
+         </td>
+           <td>
+      <div class="col-lg-offset-3"><p class="lead">An app displaying use of Layouts and TextViews. Converts Meters to Inches.<br><a href="https://github.com/CodingApps/ConvertMetersV1" target="_blank" >ConvertMeters on github</a>
+      <p></div>
+           </td>
+       </tr>  
+      </table>
+      <br>
+      <table>
+        <tr><td>
+        <br>
+        <div class="col-lg-offset-4 col-lg-10">
+        <img alt="Emojify" title="Emojify" src="screens/emojifypic1.gif" width=125>        
+        </div>
+           </td>
+           <td>
+             <div class="col-lg-offset-2 col-lg-10"><p class="lead">An app using the Google Face API for face recognition. Also uses BitmapUtils for image processing.<br><a href="https://github.com/CodingApps/EmojifyV1" target="_blank" >Emojify on github</a>
+      
+  <!--      <div class="col-lg-offset-3 col-md-10"><p class="lead">An app displaying use of Layouts and TextViews. Converts Meters to Inches.<br><a href="https://github.com/CodingApps/ConvertMetersV1" target="_blank">ConvertMeters on github</a>
+   -->      <p></div>
+           </td>
+       </tr>
+
+        
+      </table>        
+      <br>
+      </div> 
+      
+      
+     <!-- END MVVM -->
+
+      <!-- START THE VLOGS -->
+      <div id="vlogs" class="row featurette">
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Vlogs and Tutorials<br><span class="text-muted"></span></h2>
+        </div>
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <p class="lead"><a href="https://www.youtube.com/watch?v=KvmlP3ReZcA" target="_blank" ><b>Devoxx</b></a> : Kotlin for Java Programmers .</p>
+        </div>
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <p class="lead"><a href="https://www.youtube.com/watch?v=aSv5rwHxmrA" target="_blank" ><b>Edvin Syse Android Vlog</b></a> : Converting a JavaFX app to Kotlin/TornadoFX one class at a time.</p>
+        </div>
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <p class="lead"><a href="https://www.youtube.com/watch?v=9xaQPfb3Atc" target="_blank" ><b>Andy Balaam Android Vlog</b></a> :  How to convert an android project to Kotlin.</p>
+        </div>
+<!--       <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <p class="lead"><a href="https://www.youtube.com/watch?v=9xaQPfb3Atc" target="_blank" ><b>Andy Balaam Android Vlog</b></a> : Examples of Kotlin making java code better.</p>
+        </div> --!>
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <p class="lead"><a href="https://www.youtube.com/watch?v=uCJjda6-HIY" target="_blank" ><b>ACCU</b></a> : How Kotlin makes your Java code better .</p>
+        </div>
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <p class="lead"><a href="https://www.youtube.com/watch?v=LB8EZLGt3cc" target="_blank" ><b>Goobar</b></a> : Convert Java to Kotliln in Android Studio or IntelliJ.</p>
+        </div>
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <p class="lead"><a href="https://www.youtube.com/watch?v=uTQLryBZ2jo" target="_blank" ><b>BNR</b></a> : Converting a Java Android Project to Kotlin.</p>
+        </div>
+        <div class="col-md-5">
+        </div>
+      </div>  <!-- END VLOGS -->
+
+      <!-- START THE JAVASAMPLES -->
+        
+         <div id="amvvm" class="row featurette">
+        <div "col-lg-offset-1 col-lg-10">
+          <h2 class="featurette-heading">ML Python Samples<span class="text-muted"><br>In-depth views and approaches.</span></h2>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://www.journaldev.com/20292/android-mvvm-design-pattern" target="_blank" ><b>Journal Dev</b></a> : Android MVVM Design Pattern.</p>
+        </div>       
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1" target="_blank" ><b>Pro Android Dev</b></a> : MVVM architecture, ViewModel and LiveData.</p>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://woxapp.com/our-blog/the-use-of-the-modelviewviewmodel-pattern-on-android" target="_blank" ><b>Wox App</b></a> : The use of the ModelViewViewModel pattern on Android.</p>
+        </div>  
+         <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://stfalcon.com/en/blog/post/android-mvvm" target="_blank" ><b>St. Falcon</b></a> : Let's make an MVVM at Android.</p>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture" target="_blank" ><b>TopTal</b></a> : Better Android Apps Using MVVM with Clean Architecture.</p>
+        </div> 
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://www.phunware.com/blog/android-clean-coding-approach" target="_blank" ><b>Phunware</b></a> : Android Data Binding with RecyclerViews and MVVM: a Clean Coding Approach.</p>
+        </div>     
+         <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://acadgild.com/blog/introduction-to-mvp-pattern-android" target="_blank" ><b>Acad Gild</b></a> : Introduction to MVP Pattern in Android.</p>
+        </div>       
+          <div class="col-lg-offset-1 col-lg-10">
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://hackernoon.com/basics-of-mvp-the-android-way-f75da407019d" target="_blank" ><b>Hackermoon - Ankush</b></a> : Basics of MVP — The Android Way. </p>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://android.jlelse.eu/android-mvp-for-beginners-25889c500443" target="_blank" ><b>Android Pub</b></a> : Android MVP for Beginners.</p>
+        </div>
+       <div class="col-lg-offset-1 col-lg-10">
+        </div>
+       <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://www.spaceotechnologies.com/mvp-android-architectural-pattern/" target="_blank" ><b>Space Technologies</b></a> : Why Do You Need to Choose MVP Over MVC Architectural Pattern?</p>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://dzone.com/articles/model-view-presenter-for-andriod" target="_blank" ><b>DZone</b></a> : 
+
+Model-View-Presenter (MVP) for Android.</p>
+        </div>
+            
+      </div>  
+
+<!-- END JAVASAMPLES -->
+
+      <!-- START THE JAVAONSLACK -->
+      <div id="slack" class="row featurette">
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <h2 class="featurette-heading">ML on Slack<span class="text-muted"><br>Discover more resources.</span></h2>
+        </div>
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <p class="lead"><a href="http://android-united.community/" target="_blank" ><b>Android United</b></a> : Friendly Slack community of Android developers with thousands of people from all over the world.</p>
+        </div>       
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <p class="lead"><a href="https://adg-berlin.herokuapp.com/" target="_blank" ><b>ADG Berlin</b></a> : Group of Berlindroid, where Android developers created a community for all interested.</p>
+        </div>
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <p class="lead"><a href="http://slack.androiddevbr.org/" target="_blank" ><b>Android Dev BR</b></a> : Android developer community in Brazil.</p>
+        </div>
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <p class="lead"><a href="https://www.javaspecialists.eu/slack/" target="_blank" ><b>Java Specialists</b></a> : Over 7000 developers already learning new tips on Java and Android topics.</p>
+        </div>
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-5">
+          <p class="lead"><a href="https://codenewbie.typeform.com/to/uwsWlZ" target="_blank" ><b>CodeNewbie</b></a> : Supportive community of programmers 
+and people learning to code in several languages including Java.</p>
+        </div>
+        <div class="col-md-5">
+        </div>
+         <div class="col-md-5">
+          <p class="lead"><a href="https://devchat.devolio.net/" target="_blank" ><b>DevChat</b></a> : Community of developers, asking and answering Android dev questions, solving challenges.</p>
+        </div>
+        
+      </div> <!-- END JAVAONSLACK -->
+
+        <!-- START OF AGILEHUB -->
+       <div id="agilehub" class="row featurette">
+        <div "col-lg-offset-1 col-lg-10">
+          <h2 class="featurette-heading">Agile Hub</h2>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://www.leadingagile.com/the-company/resources/" target="_blank" ><b>Leading Agile</b></a> : Posts on the fundamentals of taking Agile Theory into practical implementation.</p>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://www.101ways.com/blog/" target="_blank" ><b>101 Ways</b></a> : All about Agile and improved collaboration.</p>
+        </div>       
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://agileforall.com/agile-blog/" target="_blank" ><b>Agile for All</b></a> : Tips for developing an Agile team space.</p>
+        </div>
+         <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://www.andrewcbancroft.com/" target="_blank" ><b>Leading Agile</b></a> : Free Agile resources and learn more about specific Agile topics.</p>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://www.solutionsiq.com/resource/" target="_blank" ><b>Solutions IQ</b></a> : Resource library which shares Agile learning and experiences.</p>
+        </div> 
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="http://www.funretrospectives.com/" target="_blank" ><b>Fun Retrospectives</b></a> : Activities and ideas for making agile retrospectives more engaging.</p>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://dzone.com/agile-methodology-training-tools-news" target="_blank" ><b>DZone Agile Zone</b></a> : Agile resource spotlight.</p>
+        </div>
+         <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="https://www.mountaingoatsoftware.com/blog" target="_blank" ><b>Mike Cohn’s Agile Blog</b></a> : Practical and actionable Agile advice, tips and guidance for creating high-performing teams..</p>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="http://www.marcusoft.net/" target="_blank" ><b>Marcusoft</b></a> : Effective Agile for teams.</p>
+        </div>
+         <div class="col-lg-offset-1 col-lg-10">
+          <p class="lead"><a href="http://agilitrix.com/blog/" target="_blank" ><b>Agilitrix Blog</b></a>:  Practices for the Agile Mindset.</p>
+        </div>       
+      </div>  
+      <!-- END AGILEHUB -->
+        
+         <div id="bottomhub" class="row featurette">
+           <br><br>
+           <center>
+           <a href="mailto:codingkit@gmail.com" target="_blank"><img src="screens/IconEmail1.png" height=60 width=60></a>
+           <a href="http://github.com/CodingApps" target="_blank"><img src="screens/IconGit1.png" height=60 width=60></a> 
+           <a href="http://twitter.com/enterpriseappit" target="_blank"><img src="screens/IconTwt1.png" height=60 width=60></a>
+           </center>
+       </div> 
+      
+      
+      <!-- START THE FOOTER -->
+      <footer id="contact" class="row featurette">
+        <div class="row">
+        <br>
+          <div class="text-center col-sm-12 col-lg-12">
+            <h2 class="featurette-heading"><span class='text-muted'></span></h2>
+            <br><br>   
+          </div>
+        <div class="row">
+    <!--        <p>© </p>-->
+          </div>
+        </div>
+      </footer> <!-- END FOOTER -->
+
+    </div> <!-- END CONTENT -->
+
+
+    <!-- Bootstrap & Plugins core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- ### IMPORTANT ### stickUp javascript file -->
+    <!-- ######################################### --> 
+    <script src="js/stickUp.min.js"></script>
+    <!-- ######################################### -->
+
+    <!-- ### IMPORTANT ### stickUp options in use -->
+    <!-- ######################################## -->
+    <script type="text/javascript">
+      jQuery(function($) {
+        $(document).ready( function() {
+          $('.navbar-wrapper').stickUp({
+                        parts: {
+                          0:'home',
+                          1: 'androidtips',
+                          2: 'amvvm',
+                          3: 'vlogs',
+                          4: 'samples',
+                          5: 'slack',     
+                          6: 'agilehub', 
+                        },
+                        itemClass: 'menuItem',
+                        itemHover: 'active',
+                        topMargin: 'auto'
+                      });
+        });
+      });
+    </script>
+    <!-- ######################################## -->
+    <!--                       1:'features',
+ 7: 'contact'
+--> 
+ 
+  </body>
+</html>
